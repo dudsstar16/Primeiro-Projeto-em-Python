@@ -22,6 +22,7 @@ Automação de cliques e interações com o sistema usando PyAutoGUI
 Envio automatizado das informações por e-mail
 Eliminação de processos manuais repetitivos
 
+📓 O projeto foi desenvolvido em Jupyter Notebook, permitindo visualizar passo a passo a automação, o tratamento dos dados e o cálculo dos indicadores.
 
 🧠 Tecnologias Utilizadas
 
