@@ -1,2 +1,2 @@
 # Primeiro-Projeto-em-Python
-Automação em Python para extração, tratamento de dados e envio automático de relatórios por e-mail usando Pandas, PyAutoGUI e OpenPyXL.
+Automação de relatórios em Python com análise de faturamento e envio automático de e-mails.
