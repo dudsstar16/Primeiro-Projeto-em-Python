@@ -30,3 +30,12 @@ Python
 Pandas → tratamento e análise de dados
 PyAutoGUI → automação de processos e interface gráfica
 OpenPyXL → leitura e manipulação de arquivos Excel
+
+## 📸 Screenshots
+
+### Planilha Final com Indicadores
+![Planilha Final](screenshots/planilha_final.png)
+
+### Envio Automático por E-mail
+![Envio de E-mail](screenshots/email_enviado.png)
+
